@@ -11,7 +11,7 @@
 
 ## _Задача регрессии_:
 
-Задачу обучения по прецедентам при  ![alt text](https://latex.codecogs.com/gif.latex?Y&space;=&space;\mathbb{R}) принято называть *задачей восстановления регрессии*, а решающую ф-ю  *a* - *"функцией регрессии"*..
+Задачу обучения по прецедентам при  ![alt text](https://latex.codecogs.com/gif.latex?Y&space;=&space;\mathbb{R}) принято называть *задачей восстановления регрессии*, а решающую ф-ю  **a** - *"функцией регрессии"*.
 
 
 Пусть задана *модель регрессии* ![alt text](https://latex.codecogs.com/gif.latex?\phi(x,&space;\alpha),&space;\alpha&space;\in&space;\mathbb{R}^m), где ![alt text](https://latex.codecogs.com/gif.latex?\alpha) — вектор параметров модели. В качестве *функционала качества* используется сумма квадратов ошибок (SSE):
