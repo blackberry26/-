@@ -9,7 +9,6 @@
 ![alt text](https://latex.codecogs.com/gif.latex?a:&space;X&space;\rightarrow&space;Y), которая приближала бы целевую функцию 
 ![alt text](https://latex.codecogs.com/gif.latex?y^*(x)), причём не только на объектах обучающей выборки, но и на всём множестве *X*.
 
-Реализация KNN
 
 ## _Задача регрессии_:
 
