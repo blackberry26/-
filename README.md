@@ -9,6 +9,8 @@
 ![alt text](https://latex.codecogs.com/gif.latex?a:&space;X&space;\rightarrow&space;Y), которая приближала бы целевую функцию 
 ![alt text](https://latex.codecogs.com/gif.latex?y^*(x)), причём не только на объектах обучающей выборки, но и на всём множестве *X*.
 
+Реализация KNN
+
 ## _Задача регрессии_:
 
 Задачу обучения по прецедентам при  ![alt text](https://latex.codecogs.com/gif.latex?Y&space;=&space;\mathbb{R}) принято называть **задачей восстановления регрессии**, а решающую ф-ю  ![alt text](https://latex.codecogs.com/gif.latex?\alpha) - **"функцией регрессии"**.
